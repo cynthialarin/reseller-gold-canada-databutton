@@ -1,0 +1,23 @@
+# Workspace version: 1.42.49
+uvicorn[standard]==0.29.0
+databutton==0.38.34
+ipykernel==6.29.5
+fastapi==0.111.0
+python-multipart==0.0.9
+openai
+beautifulsoup4
+requests
+rembg
+pillow
+python-barcode
+onnxruntime
+nltk
+opencv-python
+numpy
+selenium
+pandas
+scikit-learn
+torch
+torchvision
+transformers
+Pillow
